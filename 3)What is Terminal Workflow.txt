@@ -1,0 +1,4 @@
+3)What is Terminal Workflow?
+
+Terminal workflow means using terminal or command prompt commands for development tasks.
+It helps developers work faster and efficiently.

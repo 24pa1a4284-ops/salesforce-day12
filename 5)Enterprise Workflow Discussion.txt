@@ -1,0 +1,3 @@
+5)Enterprise Workflow Discussion
+
+Enterprise workflow includes testing, deployment, rollback, and collaboration.It helps maintain software quality and reliability.

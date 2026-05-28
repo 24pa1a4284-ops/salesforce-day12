@@ -1,0 +1,3 @@
+1)COMMAND LINE INTERFACE
+ A)Salesforce CLI is a command-line tool for Salesforce development. 
+It helps developers perform tasks using commands.

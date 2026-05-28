@@ -1,0 +1,4 @@
+2)Developer productivity
+A)Developer productivity improves because CLI saves time and
+ reduces manual work. Terminal workflow means using commands in terminal
+ or command prompt for development tasks.

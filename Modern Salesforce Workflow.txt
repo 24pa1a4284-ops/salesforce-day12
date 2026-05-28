@@ -1,0 +1,6 @@
+
+3)What is Modern Salesforce Workflow?
+
+Modern Salesforce workflow uses GitHub, CLI, and team collaboration.
+It improves project management and developer productivityWhat is Modern Salesforce Workflow?
+

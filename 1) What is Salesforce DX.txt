@@ -1,0 +1,4 @@
+1) What is Salesforce DX?
+
+Salesforce DX is a modern Salesforce development approach.
+It helps developers use GitHub, CLI, and source-driven development.

@@ -1,0 +1,5 @@
+
+4)What is GitHub Integration?
+
+GitHub integration helps developers store and manage code safely.
+It supports teamwork and version control
